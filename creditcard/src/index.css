@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+
+.creditCard {
+  border: 1px solid #000;
+  width: 250px;
+  height: 150px;
+  border-radius: 10px;
+  background-image: linear-gradient(lightblue, skyblue);
+}
+
+.bankName {
+  font-family: "JetBrains Mono";
+  font-size: 20px;
+  float: right;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.cardNumber {
+  font-family: "JetBrains Mono";
+  font-size: 18px;
+  margin-top: 65px;
+  margin-left: 30px;
+}
+
+.firstFour {
+  font-family: "JetBrains Mono";
+  font-size: 10px;
+  margin-top: 2px;
+  margin-left: 30px;
+}
+
+.validThru {
+  font-family: "JetBrains Mono";
+  font-size: 10px;
+  margin-top: 3px;
+  margin-left: 80px;
+}
+
+.expiration {
+  font-family: "JetBrains Mono";
+  font-size: 14px;
+  margin-top: -15px;
+  margin-left: 150px;
+}
+
+.name {
+  font-family: "JetBrains Mono";
+  font-size: 16px;
+  margin-top: 5px;
+  margin-left: 5px;
+}

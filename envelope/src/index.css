@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+
+.envelope {
+  border: 1px solid #000;
+  width: 700px;
+  height: 400px;
+  padding: 10px;
+}
+
+.address {
+  font-family: "Patrick Hand";
+}
+
+.toAddress {
+  margin-left: 280px;
+  margin-top: 75px;
+  font-size: 26px;
+}
+
+.fromAddress {
+  font-size: 20px;
+}
+
+img {
+  top: 15px;
+  left: 620px;
+  width: 100px;
+  position: absolute;
+}
